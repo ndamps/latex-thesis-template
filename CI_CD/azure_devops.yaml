@@ -1,4 +1,5 @@
-pool: Default
+pool: 
+  name: default
 trigger:
   branches:
     include:
